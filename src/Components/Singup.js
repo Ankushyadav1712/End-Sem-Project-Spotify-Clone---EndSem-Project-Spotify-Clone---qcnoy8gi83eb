@@ -22,7 +22,7 @@ const Signup = () => {
           method: "POST",
           headers: {
             accept: "application/json",
-            projectID: "bng7dtu7whwk",
+            projectID: "f104bi07c490",
             "Content-Type": "application/json",
           },
           body: JSON.stringify({

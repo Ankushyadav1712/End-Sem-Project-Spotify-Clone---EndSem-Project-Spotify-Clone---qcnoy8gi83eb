@@ -26,7 +26,7 @@ const Content = ({ token }) => {
         method: "GET",
         headers: {
           accept: "application/json",
-          projectID: "bng7dtu7whwk",
+          projectID: "f104bi07c490",
           Authorization: `Bearer ${token}`,
         },
       });
